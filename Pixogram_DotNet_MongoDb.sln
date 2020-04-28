@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixogram_DotNet_MongoDb", "Pixogram_DotNet_MongoDb\Pixogram_DotNet_MongoDb.csproj", "{49B694C2-54A2-44A8-BFA9-60F2F3040094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixogram.Entities", "Pixogram.Entities\Pixogram.Entities.csproj", "{A0C87B9D-C7E5-40A9-A73A-6BA7E23FBF43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixogram.DataLayer", "Pixogram.DataLayer\Pixogram.DataLayer.csproj", "{83E6C4F7-3DD9-400A-B3F8-9D86E69A4883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixogram.BusinessLayer", "Pixogram.BusinessLayer\Pixogram.BusinessLayer.csproj", "{CCCFA060-FFEA-423E-82C6-B4355F7638E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixogram.Tests", "Pixogram.Tests\Pixogram.Tests.csproj", "{4519612B-EE90-4130-9E0D-07F21E401117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B694C2-54A2-44A8-BFA9-60F2F3040094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B694C2-54A2-44A8-BFA9-60F2F3040094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B694C2-54A2-44A8-BFA9-60F2F3040094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B694C2-54A2-44A8-BFA9-60F2F3040094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C87B9D-C7E5-40A9-A73A-6BA7E23FBF43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C87B9D-C7E5-40A9-A73A-6BA7E23FBF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C87B9D-C7E5-40A9-A73A-6BA7E23FBF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C87B9D-C7E5-40A9-A73A-6BA7E23FBF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E6C4F7-3DD9-400A-B3F8-9D86E69A4883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E6C4F7-3DD9-400A-B3F8-9D86E69A4883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E6C4F7-3DD9-400A-B3F8-9D86E69A4883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E6C4F7-3DD9-400A-B3F8-9D86E69A4883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCFA060-FFEA-423E-82C6-B4355F7638E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCFA060-FFEA-423E-82C6-B4355F7638E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCFA060-FFEA-423E-82C6-B4355F7638E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCFA060-FFEA-423E-82C6-B4355F7638E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4519612B-EE90-4130-9E0D-07F21E401117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4519612B-EE90-4130-9E0D-07F21E401117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4519612B-EE90-4130-9E0D-07F21E401117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4519612B-EE90-4130-9E0D-07F21E401117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDED5B68-0FDD-4B03-AF3F-4EC09748446C}
+	EndGlobalSection
+EndGlobal

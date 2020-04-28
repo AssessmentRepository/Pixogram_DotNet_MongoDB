@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.deps.json
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.pdb
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.BusinessLayer\obj\Debug\netcoreapp2.2\Pixogram.BusinessLayer.pdb

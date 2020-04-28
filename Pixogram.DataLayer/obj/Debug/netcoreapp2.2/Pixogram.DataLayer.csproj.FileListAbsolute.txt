@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.deps.json
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Pixogram.DataLayer.pdb
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Pixogram.Entities.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Pixogram.Entities.pdb
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.dll
+C:\Users\hp\source\repos\Pixogram_DotNet_MongoDb\Pixogram.DataLayer\obj\Debug\netcoreapp2.2\Pixogram.DataLayer.pdb
